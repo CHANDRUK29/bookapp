@@ -15,7 +15,7 @@ This application provides a RESTful API for managing a collection of books. It a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd book-app
+   cd bookapp
    ```
 3. Install dependencies:
    ```bash
