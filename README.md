@@ -11,7 +11,7 @@ This application provides a RESTful API for managing a collection of books. It a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:CHANDRUK29/bookapp.git
    ```
 2. Navigate to the project directory:
    ```bash
